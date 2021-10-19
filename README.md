@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jordan Wolfaardt. I'm originally from Cape Town, South Africa and have lived in the United States since I was nine.
 
-- 👀 I’m interested in neuroscience, investing, AI, and automation. 
+- 👀 I’m interested in neuroscience, investing, and AI. 
 - 💻 Almost all the code I've written has been for work or school, neither of which am I able to post here. My favorite coding exercises are building simulations. I've used Python and C the most, but also have experience with SQL, C#, NoSQL, JavaScript, and Scala. I've worked with both AWS (EC2, S3, SQS, SNS, DynamoDB, SES, Glacier, Auto Scaling, Elastic Load Balancer) and Azure (SQL server, Cosmos DB, App Service). I've also used Flask, Docker, Kafka, Hive, HBase, Spark, HDFS, Hadoop, and ORC to varying degrees.
 - 🌱 I'm always learning! I have not yet found the bounds of my curiosity.
 - 💞️ I’m looking to collaborate on anything involving computational neuroscience or quantitative investing.
